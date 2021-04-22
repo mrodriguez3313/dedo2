@@ -10,7 +10,7 @@ import { Header, Tab, Container } from 'semantic-ui-react';
 /************************************************/
 /*        Step 4.2 Code goes here               */
 /************************************************/
-import { ContentRecordDAC } from '@skynethq/content-record-library';
+import { ContentRecordDAC } from '@skynetlabs/content-record-library';
 import { FeedDAC } from "feed-dac-library";
 
 /*****/
